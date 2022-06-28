@@ -1,0 +1,60 @@
+{
+  "commodity": [
+    {
+      "id": "5fccd29ea6c0000ff007f32",
+      "name": "家用电器",
+      "parentId": "0",
+      "type": "一级分类",
+      "updateDate": null
+    },
+    {
+      "id": "5fccd29ea6c0000ff007f33",
+      "name": "数码产品",
+      "parentId": "0",
+      "type": "一级分类",
+      "updateDate": null
+    },
+    {
+      "id": "5fccd29ea6c0000ff007f34",
+      "name": "鞋类箱包",
+      "parentId": "0",
+      "type": "一级分类",
+      "updateDate": null
+    },
+    {
+      "name": "汽车分类",
+      "type": "一级分类",
+      "id": "0Qojlej"
+    },
+    {
+      "name": "哈哈哈哈",
+      "type": "一级分类",
+      "id": "ucA7i_j"
+    },
+    {
+      "name": "商品分类",
+      "type": "三级分类",
+      "id": "x9_R_IF"
+    },
+    {
+      "name": "宁鑫辉的商品",
+      "type": "二级分类",
+      "id": "jzcNWzJ"
+    },
+    {
+      "name": "宁鑫辉的商品",
+      "type": "二级分类",
+      "id": "NAPATjF"
+    },
+    {
+      "name": "宁鑫辉的商品",
+      "type": "一级分类",
+      "id": "TsrbM0-"
+    },
+    {
+      "name": "商品分类",
+      "type": "一级分类",
+      "id": "e6ajo-X"
+    }
+  ]
+}
