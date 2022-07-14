@@ -6,7 +6,7 @@ class Com404 extends Component {
     }
     render() { 
         return ( 
-            <div>404</div>
+            <div>你访问的页面不存在404</div>
          );
     }
 }
